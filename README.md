@@ -1,3 +1,5 @@
+![Title Image](https://raw.githubusercontent.com/soniksid/Automatic-Dustbin/main/Dustbin.png)
+
 # Automatic-Dustbin
 
 
