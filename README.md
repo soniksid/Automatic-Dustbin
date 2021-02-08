@@ -3,7 +3,7 @@
 # Automatic-Dustbin
 
 
-This automatic dustbin is a DIY project made by me in which is interfaced it with the Arduino UNO micro-controller. I used HC SR-04 (Ultrasonic) sensor and SG90 Micro Servo to detect the range and open the lid respectively. To program the micro-controller, we have to use Arduino IDE which is free to install and can get it from [arduino.cc](https://arduino.cc). A complete documentation is avilable for working of Ultrasonic sensor and Micro Servo. You can follow these steps below to make it at your home.
+This automatic dustbin is a DIY project made by me in which I interfaced it with the Arduino UNO micro-controller. I used HC SR-04 (Ultrasonic) sensor and SG90 Micro Servo to detect the range and open the lid respectively. To program the micro-controller, we have to use Arduino IDE which is free to install and can get it from [arduino.cc](https://arduino.cc). A complete documentation is avilable for working of Ultrasonic sensor and Micro Servo. You can follow these steps below to make it at your home.
 
 
 
@@ -23,3 +23,4 @@ This automatic dustbin is a DIY project made by me in which is interfaced it wit
 
 
 # Circuit Diagram
+![Circuit Image](https://raw.githubusercontent.com/soniksid/Automatic-Dustbin/main/circuit_diagram.png)
