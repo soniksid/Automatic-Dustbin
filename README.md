@@ -14,7 +14,8 @@ This automatic dustbin is a DIY project made by me in which I interfaced it with
 4. HCSR-04 Ultrasonic Sensor
 5. SG90 Micro Servo
 6. One LED
-7. Other (glue, thread, etc.)
+7. 9V Battery
+8. Other (glue, thread, etc.)
 
 (NOTE: You can use any type of box for making a dustbin, the only concept is object detection and how you want to open the dustbin using a servo)
 
